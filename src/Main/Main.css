@@ -1,0 +1,15 @@
+.main{
+    
+    background-image: url('../images/MainImages/banner-image-short.jpg');
+}
+.Searchbar{
+    padding: 5px 10px;
+    margin-left: 40%;
+    border-radius: 10px;
+    width: 20%;
+    border: 2px solid black;
+}
+
+.mainimg{
+    object-fit: fill;
+}

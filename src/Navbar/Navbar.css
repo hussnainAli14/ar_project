@@ -1,0 +1,15 @@
+.navbarbg{
+    background-color: whitesmoke;
+}
+.dropdown{
+    border: none;
+    background-color: inherit;
+}
+.navbar-contents{
+    margin-left: 20%;
+    font-size: 18px;
+}
+.dropdown:hover{
+    cursor: pointer;
+    
+}
